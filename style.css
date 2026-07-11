@@ -97,7 +97,7 @@ nav li {
   gap: 40px;
 }
 .card {
-  width: 600px;
+  width: 500px;
   margin: auto;
   border: 3px solid lightgray;
   background: #f7fbff;
@@ -106,18 +106,16 @@ nav li {
   text-align: center;
 }
 .card img {
-  width: 550px;
-  height: 350px;
-  margin-top: 10px;
+  width: 450px;
+  height: 300px;
+  margin-top: 22px;
   object-fit: cover;
   object-position: center;
-  /* margin: 20px; */
   border-radius: 20px;
   object-fit: cover;
 }
 .card-info {
   text-align: left;
-  /* margin-left: 20px; */
   padding: 20px 0 26px 40px;
 }
 .category {
@@ -179,9 +177,6 @@ nav li {
 }
 .special-p-card .p-category {
   color: #00a2ff;
-}
-#pricing {
-  padding-bottom: 20px;
 }
 
 footer {
